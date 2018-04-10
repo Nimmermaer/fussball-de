@@ -1,0 +1,7 @@
+.form-control {
+    border: none;
+    border: 1px solid rgba( 222, 222, 222, 0.75 );
+}
+#titlediv #title-prompt-text {
+    font-size: 15px;
+}
